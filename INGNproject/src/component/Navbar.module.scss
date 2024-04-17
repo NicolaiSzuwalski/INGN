@@ -1,0 +1,16 @@
+
+.Header{
+    display: flex; 
+    background-color: #F6F3F3;
+    h2{
+    color: #C52525;
+}
+ul{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    gap: 1rem;
+    list-style: none;
+}
+}
